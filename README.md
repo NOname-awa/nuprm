@@ -237,6 +237,7 @@ If you get the error ``File not found: ...``<br>, then the file pointed to by yo
 
 <h1 class="rainbow">Happy Nushell Theme Manager!</h1>
 
+<p>
 <style>
   .rainbow {
     background: linear-gradient(
@@ -247,3 +248,4 @@ If you get the error ``File not found: ...``<br>, then the file pointed to by yo
     color: transparent;
   }
 </style>
+<p>
